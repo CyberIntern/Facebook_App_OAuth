@@ -14,5 +14,5 @@ After that we have to startup the Apache server by issuing the command "sh catal
 
 Now go to your browser and type "localhost:8080/facebookapp" and enjoy using the web application to find your IP address and details along with your Facebook Account and Post the IP address details to your Facebook
 
-You can Find more information on this blogspot about the building up of Web Applications on top of OAuth concepts in Facebook and how to do them from the beginning in simple steps
+#You can Find more information on this blogspot about the building up of Web Applications on top of OAuth concepts in Facebook and how to do them from the beginning in simple steps
 http://cyberinternblog.blogspot.com/
